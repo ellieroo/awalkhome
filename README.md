@@ -5,3 +5,4 @@
 # the HTML file has the metadata for the game and the libraries I used to build it
 # to report issues, don't hesitate to leave a comment here (or if you know me, contact me directly)
 # roll Blount :) 
+# p.s. - if I update this game (in allllllll my spare time, you'll find the new version uploaded and marked here on this same page!)
